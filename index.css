@@ -1,0 +1,76 @@
+* {
+    margin: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    background-image: url("/bg\ img.jfif");
+}
+#brand{
+    height: 80px;
+    line-height: 2.4;
+    width: 40%;
+    float: left;
+    text-align: center;
+    color: white;
+}
+#menu{
+
+    height: 80px;
+    line-height: 4;
+    width: 60%;
+    float:right;
+    text-align: center;
+}
+a{
+    color: beige;
+    text-decoration: none;
+    margin-left: 60px;
+    line-height: 3.7;
+    font-size: 20px;
+}
+p{
+    color: white;
+
+}
+#Heading{
+    text-align: center;
+    line-height: 2;
+    color: white;
+}
+.name{
+    
+    text-align: center;
+    margin: 0px 450px;
+    color:rgb(32, 24, 24);
+    border-radius: 50px;
+} 
+h2{
+    border: solid rgb(18, 18, 22);
+    border-radius: 50px;
+    
+}
+#table{
+    margin: 20px 150px;   
+    text-align: center;
+    color: rgb(31, 11, 11);
+    font-size: 40px;
+    
+    
+}
+#table2{
+    margin-left: 100px;
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+#table3{
+    margin-left: 100px;
+    text-align: center;
+    color:wheat;
+    font-size: 35px;
+}
+#footer{
+    text-align: center;
+    color: blanchedalmond;
+}
